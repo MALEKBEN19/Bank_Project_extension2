@@ -1,5 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project-bank-edited.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Project-bank-edited.cpp
-D:\Programming_Path\level 8\Projects\Bank_Project_extension2\Project-bank-edited\Project-bank-edited.cpp(42,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-D:\Programming_Path\level 8\Projects\Bank_Project_extension2\Project-bank-edited\Project-bank-edited.cpp(976,10): warning C4129: ' ': unrecognized character escape sequence
-  Project-bank-edited.vcxproj -> D:\Programming_Path\level 8\Projects\Bank_Project_extension2\x64\Debug\Project-bank-extension.exe
