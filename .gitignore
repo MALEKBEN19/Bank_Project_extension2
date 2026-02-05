@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.suo
+*.VC.db
+*.VC.opendb
+*.db
+
+# Build
+x64/
+Debug/
+Release/
+
+# User files
+*.vcxproj.user
+
+# Runtime
+*.log
+*.txt
