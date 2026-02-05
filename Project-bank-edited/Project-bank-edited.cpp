@@ -1167,10 +1167,6 @@ int main()
 	while(true){
 		Login();
 	}
-	
-	
-		
-	
 	system("pause>0");
 	return 0;
 }
